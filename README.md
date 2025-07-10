@@ -56,7 +56,7 @@
 
 ## 📫 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-📧-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaurab.kc.a@gmail.com)
+[![Email](https://img.shields.io/badge/Email-📧-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=gaurab.kc.a@gmail.com)
 
 ---
 
