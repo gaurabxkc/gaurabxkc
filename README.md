@@ -14,7 +14,7 @@
 - ⚙️ Building backend APIs with **Node.js**, **Express**, and **MongoDB**  
 - 🐍 Developing scripts and projects using **Python**  
 - 🎨 Designing websites with clean UI using **HTML**, **CSS**, and **JavaScript**  
-- 🔐 Learning cybersecurity and penetration testing  
+- 🔐 Learning cybersecurity
 - 📚 Continuously improving my skills in full-stack development and security  
 
 ---
