@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurab K.C.
 
-<!--
-**gaurabxkc/gaurabxkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Civil Engineering Student from Nepal  
+💻 Learning JavaScript, Python & MERN backend  
+🔒 Exploring Automation  
+🎧 Music keeps me going
 
-Here are some ideas to get you started:
+## 🌱 Currently Working On
+- MERN backend projects
+- DSA with JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- JavaScript, Python
+- Node.js, Express, MongoDB
+- AutoCAD, Notion, Termux
+
+## 🎵 My Spotify
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/317loy7bfunkf757hlholfswx35m?si=512bb22593684d44)
+
+## 📫 Connect with me
+- 📬 [Email](mailto:gaurab.kc.a@gmail.com)
