@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gaurab K.C.
+# Hi, I'm Gaurab K.C.
 
 🎓 Civil Engineering student from Nepal  
 💻 Full-stack web developer (MERN) & Python enthusiast  
